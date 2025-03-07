@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class Search
+// Main Class to Run all the Searching Techniques
 {
     public static void main(String[] args)
     {
