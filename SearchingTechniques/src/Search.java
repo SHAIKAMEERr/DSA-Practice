@@ -67,5 +67,12 @@ public class Search
         };
         System.out.println("Binary Search in 2 - D Sorted Array: ");
         System.out.println(Arrays.toString(BinarySearchIn2DArray.binarySearch2DArray(srt, 39)));
+
+        //binary Search in a Sorted Array
+
+        int[] num = {10,20,30,40,50,60,70,80};
+        System.out.println();;
+        System.out.println("Binary Search in a sorted array: ");
+        System.out.println(BinarySearch.binarySearch(num, 61));
     }
 }
