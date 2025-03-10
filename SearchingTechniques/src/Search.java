@@ -55,5 +55,17 @@ public class Search
                  {18, 19, 20}};
         System.out.println("Searching Element in 2 - D Array: "+Arrays.toString(SearchingIn2DArray
                 .searchingIn2DArray(nums, 17)));
+
+        System.out.println();
+        //Binary Search in 2-D Array
+        //Search element in 2-D sorted array
+        int[][] srt = {
+                {10, 20, 30, 40},
+                {11, 22, 33, 44},
+                {15, 25, 35, 45},
+                {18, 28, 38, 48}
+        };
+        System.out.println("Binary Search in 2 - D Sorted Array: ");
+        System.out.println(Arrays.toString(BinarySearchIn2DArray.binarySearch2DArray(srt, 39)));
     }
 }
