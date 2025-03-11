@@ -68,8 +68,8 @@ Each folder contains Java implementations of various problems related to the res
 This repository is my personal practice space, but I’m always open to discussions and suggestions. If you have any ideas, feel free to open an issue or share your thoughts! 😊
 
 ## 📢 Let's Connect!
-💼 [LinkedIn](#https://www.linkedin.com/in/ameer-shaikk/)  
-📧 [Email](#shaikameerjann@gmail.com)  
-🐦 [LeetCode](#https://leetcode.com/u/SHAIK_AMEER_/)  
+📧 [Email](shaikameerjann@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ameer-shaikk/)
+<br>📘 [LeetCode](https://leetcode.com/u/SHAIK_AMEER_/)
 
 Happy Coding! 🚀
