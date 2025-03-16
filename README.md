@@ -16,9 +16,10 @@ I am committed to solving DSA problems daily. Below is a summary of my progress:
 |------------|----------------------|-------------------------------------------------|
 | 2025-03-10 | Binary Search        | Applications in searching problems              |
 | 2025-03-11 | Sorting Algorithms   | Bubble Sort performance comparison              |
-| 2025-03-12 | Bubble Sort          | Practicing Bubble Sorting algorithms            |
-| 2025-03-13 | Selection Sort       | Practicing Selection Sorting algorithms         |
-| 2025-03-14 | Insertion Sort       | Practicing Insertion Sorting algorithms         |
+| 2025-03-12 | Bubble Sort          | Practicing Bubble Sorting algorithm             |
+| 2025-03-13 | Selection Sort       | Practicing Selection Sorting algorithm          |
+| 2025-03-14 | Insertion Sort       | Practicing Insertion Sorting algorithm          |
+| 2025-03-15 | Cyclic Sort          | Practicing Cyclic Sorting algorithm             |
 
 _(This table will be updated daily as I progress.)_
 
