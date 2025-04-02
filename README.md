@@ -1,6 +1,6 @@
 # DSA Practice in Java 🚀
 
-Welcome to my **Daily DSA Practice Repository!** Here, I consistently solve **Data Structures and Algorithms (DSA)** problems in Java to strengthen my problem-solving skills. Every day, I push my latest solutions and implementations to this repository. 💡
+Welcome to my **Daily DSA Practice Repository!** Here, I consistently solve **Data Structures & Algorithms (DSA)** problems in Java to strengthen my problem-solving skills. Every day, I push my latest solutions and implementations to this repository. 💡
 
 ## 📌 What You’ll Find Here
 ✅ **Daily Java-based DSA solutions with detailed explanations**  
@@ -58,8 +58,8 @@ Each folder contains Java implementations of various problems related to the res
 
 ## 📚 Learning Resources
 📘 **Books**: CLRS (Introduction to Algorithms), Cracking the Coding Interview  
-💻 **Platforms**: LeetCode, Coding Ninjas, GeeksforGeeks
-<br>🎥 **YouTube Channels**: Abdul Bari, Kunal Kushwaha, Striver's TUF  
+💻 **Platforms**: LeetCode, GeeksforGeeks
+<br>🎥 **YouTube Channels**: Abdul Bari, Kunal Kushwaha, Striver's TUF, Apna College  
 📝 **Blogs**: Medium, Dev.to, FreeCodeCamp  
 
 ## 🚀 Future Plans
