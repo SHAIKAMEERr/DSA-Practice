@@ -12,7 +12,7 @@ Welcome to my **Daily DSA Practice Repository!** Here, I consistently solve **Da
 ## 📅 Daily Practice Log
 I am committed to solving DSA problems daily. Below is a summary of my progress:
 
-| Date       | Topic Covered                   | Key Learnings                        |
+| Date       | Topic Covered        | Key Learnings                                   |
 |------------|----------------------|-------------------------------------------------|
 | 2025-03-10 | Binary Search        | Applications in searching problems              |
 | 2025-03-11 | Sorting Algorithms   | Bubble Sort performance comparison              |
