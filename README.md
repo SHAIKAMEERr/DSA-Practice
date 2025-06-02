@@ -18,7 +18,7 @@ This repo is part of my daily commitment to enhance my problem-solving skills by
 * 💻 Use **Java** for all implementations.
 * 🔍 Practice on platforms like:
 
-  * [LeetCode](https://leetcode.com/)
+  * [LeetCode](https://leetcode.com/u/SHAIK_AMEER_/)
   * [GeeksForGeeks](https://www.geeksforgeeks.org/)
   * [HackerRank](https://www.hackerrank.com/)
 
